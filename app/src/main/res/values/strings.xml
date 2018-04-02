@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quản Lí Thu Chi</string>
+    <string name="tieu_de">Nhập thông tin thu/chi</string>
+    <string name="noi_dung">Nội dung</string>
+    <string name="so_tien">Số tiền</string>
+    <string name="hinh_thuc">Hình thức</string>
+    <string name="hay_nhap_noi_dung">Hãy nhập nội dung</string>
+    <string name="hay_nhap_so_tien">Hãy nhập số tiền</string>
+    <string name="thu">Thu</string>
+    <string name="chi">Chi</string>
+    <string name="them">Thêm</string>
+    <string name="nhap_lai">Nhập lại</string>
+    <string name="hien_thi">Hiển Thị</string>
+</resources>
